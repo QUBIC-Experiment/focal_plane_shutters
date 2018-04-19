@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 from scipy import optimize
 import scipy.signal as signal
 
+#comment
 
 n_iterazioni = np.arange(10)
 
